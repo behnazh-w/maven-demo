@@ -1,4 +1,4 @@
-package com.demo.macaron.maven;
+package io.github.behnazhw.demo;
 
 import static org.junit.Assert.assertTrue;
 
@@ -7,7 +7,7 @@ import org.junit.Test;
 /**
  * Unit test for simple App.
  */
-public class AppTest 
+public class DummyJacksonDatabindTest
 {
     /**
      * Rigorous Test :-)
